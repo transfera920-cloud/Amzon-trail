@@ -1,0 +1,8 @@
+{
+  "name": "亞馬遜國家山岳協會｜登山活動招生管理系統",
+  "description": "亞馬遜國家山岳協會之登山活動公開招生頁面與管理後台系統，提供完整活動資訊、自訂行程時間軸、里程與爬升統計，以及快速 LINE 報名功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
